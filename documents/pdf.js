@@ -100,7 +100,7 @@ return `
                       <table>
                          <tr>
                             <td>
-                               User name: ${name}
+                               Customer name: ${name}
                             </td>
                             <td>
                                Receipt number: ${receiptId}
